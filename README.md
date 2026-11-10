@@ -1,6 +1,6 @@
 # Lab2
 
-2. Method overloading, default parameters,
+**Method overloading, default parameters,**
     * Ստեղծել static ToMultiplicate մեթոդը, 3 օրինակով, որը կնդունի x, N փոփոխականները
     * N-ը կունենեա ըսկ լռելյայն (default) արժեք 2, կլինի int տիպի
     * իսկ x-ը կլինի երեք տարբերակով int, double և string
